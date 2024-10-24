@@ -1,0 +1,12 @@
+git init
+git remote add origin [direccion]
+git clone
+git touch .gitignore (*.class o lo que sea)
+git add .
+git commit
+git push (origin [rama] para subir la rama nueva)
+git pull
+git branch
+git checkout
+git fetch 
+git merge
